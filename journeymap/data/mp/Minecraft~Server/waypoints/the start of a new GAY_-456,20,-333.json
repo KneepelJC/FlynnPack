@@ -1,0 +1,17 @@
+{
+  "id": "the start of a new GAY_-456,20,-333",
+  "name": "the start of a new GAY",
+  "icon": "waypoint-normal.png",
+  "x": -456,
+  "y": 20,
+  "z": -333,
+  "r": 139,
+  "g": 114,
+  "b": 219,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

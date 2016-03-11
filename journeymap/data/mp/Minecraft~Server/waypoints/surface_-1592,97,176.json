@@ -1,0 +1,17 @@
+{
+  "id": "surface_-1592,97,176",
+  "name": "surface",
+  "icon": "waypoint-normal.png",
+  "x": -1592,
+  "y": 97,
+  "z": 176,
+  "r": 19,
+  "g": 231,
+  "b": 9,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "STRONGHOLD_-492,64,-660",
+  "name": "STRONGHOLD",
+  "icon": "waypoint-normal.png",
+  "x": -492,
+  "y": 64,
+  "z": -660,
+  "r": 242,
+  "g": 251,
+  "b": 243,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

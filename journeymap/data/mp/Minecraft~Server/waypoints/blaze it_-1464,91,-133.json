@@ -1,0 +1,17 @@
+{
+  "id": "blaze it_-1464,91,-133",
+  "name": "blaze it",
+  "icon": "waypoint-normal.png",
+  "x": -1464,
+  "y": 91,
+  "z": -133,
+  "r": 147,
+  "g": 19,
+  "b": 247,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
